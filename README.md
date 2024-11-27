@@ -1,2 +1,2 @@
-# Artificial_Intelligence_Lab_Work
-This repository contains all the Lab Sessions we did in our 5th Semester during the Artificial Intelligence course.
+# ArtificialIntelligence LabWork
+This repository has all the lab sessions and the final project (OEL, based on Genetic Algorithm) that we did in our fifth semester for the AI course.
